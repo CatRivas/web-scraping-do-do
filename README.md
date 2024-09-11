@@ -6,7 +6,6 @@ This repository contains a series of **web scraping** projects, created with the
 
 ## Branch Structure:
 - **main**: Contains only completed projects ready to be shared.
-- **test**: Experimental branch where tests and adjustments are made before integrating into `main`.
 - **Projects**: Each project is in its own branch, facilitating development and version control.
 
 ---
