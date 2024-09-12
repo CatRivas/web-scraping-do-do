@@ -6,5 +6,10 @@ The dataset and images extracted in this project were used in one of the **CS50P
 ### Libraries Used:
 - **`requests`**: For making HTTP requests and obtaining page content.
 - **`BeautifulSoup`**: For parsing HTML and extracting relevant data.
+- **`os`**: For creating a directory to store the downloaded images if it does not already exist.
+
+
+
+
 
 
